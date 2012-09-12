@@ -1,0 +1,36 @@
+JavaEE CronDaemon Con SpringFramework 3.1.2
+
+DEPENDENCIAS:
+
+  CON MAVEN: 
+    <dependencies>
+    <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.17</version>
+    </dependency>
+    <dependency>
+     <groupId>org.springframework</groupId>
+     <artifactId>spring-context</artifactId>
+     <version>3.1.2.RELEASE</version>
+    </dependency>
+    <dependency>
+     <groupId>org.springframework</groupId>
+     <artifactId>spring-web</artifactId>
+     <version>3.1.2.RELEASE</version>
+    </dependency>
+  </dependencies>
+
+  SIN MAVEN
+    aopalliance-1.0.jar
+    commons-ligging-1.1.1.jar
+    log4j-1.2.17.jar
+    spring-aop-3.2.1.jar
+    spring-asm-3.2.1.jar
+    spring-beans-3.2.1.jar
+    spring-context-3.2.1.jar
+    spring-core-3.2.1.jar
+    spring-expression-3.2.1.jar
+    spring-web-3.2.1.jar
+     
+    
